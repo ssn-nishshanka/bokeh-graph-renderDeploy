@@ -1,4 +1,4 @@
-# Interactive Graph Explorer: Game of Thrones Character Network
+# Interactive Graph Explorer: GoT Character Network
 
 An interactive network visualization of Game of Thrones character interactions using Python, Bokeh Server, NetworkX, and Neo4j AuraDB. Explore characters and their interactions dynamically with hover tooltips, search/filter, and dynamic highlighting.
 
