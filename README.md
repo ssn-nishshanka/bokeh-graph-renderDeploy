@@ -40,7 +40,7 @@ git clone https://github.com/ssnsii/bokeh_graph_app.git
 cd bokeh_graph_app
 ````
 
-2. (Optional) Create and activate a virtual environment:
+2. Create and activate a virtual environment:
 
 ```bash
 python -m venv venv
